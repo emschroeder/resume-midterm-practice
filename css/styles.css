@@ -1,5 +1,22 @@
 /* Your Website Styles */
 
+nav {
+	background: teal;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+body {
+	margin-top: 100px;
+	background: gray;
+}
+
+#aboutme {
+	border-bottom: 10px solid teal;
+}
+
+
 
 /* Show Grid */
 .showgrid {
